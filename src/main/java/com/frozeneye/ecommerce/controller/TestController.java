@@ -1,4 +1,4 @@
-package com.frozeneye.ecommerce.controllers;
+package com.frozeneye.ecommerce.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
